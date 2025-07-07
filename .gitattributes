@@ -1,2 +1,4 @@
-## Linguagem  
-Este repositório contém scripts em **Oracle PLSQL**.
+# Auto detect text files and perform LF normalization
+*.sql linguist-language=PLSQL
+
+
